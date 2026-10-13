@@ -1,0 +1,19 @@
+{
+  "wheel_id": 351,
+  "structure": "umbrella",
+  "slug": "warwick4370-104",
+  "project": "cleaning-services-warwick-comparison-504ed2fd1426c386d7759aec40",
+  "parent_t1_ref": "warwick4370-152",
+  "node_role": "feeder",
+  "money_target": "warwick4370.com.au",
+  "primary_kw": "cleaning services warwick comparison",
+  "intended_url": "https://aumedia.neocities.org/cleaning-services-warwick-comparison-504ed2fd1426c386d7759aec40/",
+  "writeback_nonce": "c84fb4a37cadf321",
+  "links": [
+    {
+      "target_url": "http://cleaning-services-warwick-308650d2d0009d469936c0534683eee0633c9.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "cleaning services warwick",
+      "rel": "follow"
+    }
+  ]
+}
